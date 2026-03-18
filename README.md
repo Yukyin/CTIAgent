@@ -148,7 +148,7 @@ Typical things to inspect in `compare_output.json`:
 A longer project document is available in `docs/CTIAgent.pdf`.
 It provides the Introduction, Data Acquisition, Methods, Case Study, Conclusions and Future Work.
 
-## Research and Citation 📚
+## Research and Citation
 
 If you use this project in a paper, report, thesis, or study, please cite this repository:
 
@@ -161,7 +161,7 @@ If you use this project in a paper, report, thesis, or study, please cite this r
 }
 ```
 
-## License 📜
+## License
 
 Noncommercial use is governed by `LICENSE` (PolyForm Noncommercial 1.0.0).  
 Commercial use requires a separate agreement — see `COMMERCIAL_LICENSE.md`.
