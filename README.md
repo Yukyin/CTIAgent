@@ -1,4 +1,6 @@
-# CTIAgent: Active Information Acquisition for Clinical Trial Intelligence
+# CTIAgent: An Active Evidence Acquisition Agent for Clinical Trial Intelligence
+
+![CTIAgent overview](docs/overview.png)
 
 CTIAgent is an agent for clinical trial intelligence built around three core ideas:
 
@@ -153,7 +155,7 @@ If you use this project in a paper, report, thesis, or study, please cite this r
 ```bibtex
 @misc{CTIAgent2026,
   author  = {Yuyan Chen},
-  title   = {CTIAgent: Active Information Acquisition for Clinical Trial Intelligence},
+  title   = {CTIAgent: An Active Evidence Acquisition Agent for Clinical Trial Intelligence},
   year    = {2026},
   url     = {\url{https://github.com/Yukyin/CTIAgent}}
 }
